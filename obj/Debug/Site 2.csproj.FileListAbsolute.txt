@@ -1,0 +1,21 @@
+C:\Users\ПетренковН\source\repos\Site 2\Site 2\bin\Debug\Site 2.exe.config
+C:\Users\ПетренковН\source\repos\Site 2\Site 2\bin\Debug\Site 2.exe
+C:\Users\ПетренковН\source\repos\Site 2\Site 2\bin\Debug\Site 2.pdb
+C:\Users\ПетренковН\source\repos\Site 2\Site 2\obj\Debug\Site 2.csprojResolveAssemblyReference.cache
+C:\Users\ПетренковН\source\repos\Site 2\Site 2\obj\Debug\LoginPage.g.cs
+C:\Users\ПетренковН\source\repos\Site 2\Site 2\obj\Debug\MainWindow.g.cs
+C:\Users\ПетренковН\source\repos\Site 2\Site 2\obj\Debug\MessagePage.g.cs
+C:\Users\ПетренковН\source\repos\Site 2\Site 2\obj\Debug\RegistrationPage.g.cs
+C:\Users\ПетренковН\source\repos\Site 2\Site 2\obj\Debug\App.g.cs
+C:\Users\ПетренковН\source\repos\Site 2\Site 2\obj\Debug\Site 2_MarkupCompile.cache
+C:\Users\ПетренковН\source\repos\Site 2\Site 2\obj\Debug\Site 2_MarkupCompile.lref
+C:\Users\ПетренковН\source\repos\Site 2\Site 2\obj\Debug\LoginPage.baml
+C:\Users\ПетренковН\source\repos\Site 2\Site 2\obj\Debug\MainWindow.baml
+C:\Users\ПетренковН\source\repos\Site 2\Site 2\obj\Debug\MessagePage.baml
+C:\Users\ПетренковН\source\repos\Site 2\Site 2\obj\Debug\RegistrationPage.baml
+C:\Users\ПетренковН\source\repos\Site 2\Site 2\obj\Debug\Site 2.g.resources
+C:\Users\ПетренковН\source\repos\Site 2\Site 2\obj\Debug\Site_2.Properties.Resources.resources
+C:\Users\ПетренковН\source\repos\Site 2\Site 2\obj\Debug\Site 2.csproj.GenerateResource.Cache
+C:\Users\ПетренковН\source\repos\Site 2\Site 2\obj\Debug\Site 2.csproj.CoreCompileInputs.cache
+C:\Users\ПетренковН\source\repos\Site 2\Site 2\obj\Debug\Site 2.exe
+C:\Users\ПетренковН\source\repos\Site 2\Site 2\obj\Debug\Site 2.pdb
